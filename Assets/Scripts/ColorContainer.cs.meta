@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f9a7be139b2ae254da40247db645e860
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - putAudioObj: {fileID: 4790211337465181868, guid: 2eaf72d311c9b6541b77f8e2abee912e,
+      type: 3}
+  - rightAudioObj: {fileID: 666770083817903753, guid: cca48b079bfd5db49a5dfe7d24bc0921,
+      type: 3}
+  - wrongAudioObj: {fileID: 828189710723095607, guid: a386cc21432d9b14fa9201d0bcc43984,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
