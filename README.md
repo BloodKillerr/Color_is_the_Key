@@ -1,5 +1,5 @@
 <p align="center"> 
-  <!-- <img src="gif/Pacman Logo2.jpg" alt="Pacman Logo" width="80px" height="80px">-->
+  <img src="Img/Banner.png">
 </p>
 <h1 align="center"> Color is the Key </h1>
 <h3 align="center"> Project for: <a href="https://itch.io/jam/mini-jam-111-colors">Mini Jam 111-Colors</a></h3>
@@ -40,3 +40,8 @@
 - ESC - Quit application
 
 <h2>Gameplay Screenshots</h2>
+<img src="Img/s1.png">
+<img src="Img/s2.png">
+<img src="Img/s3.png">
+<img src="Img/s4.png">
+<img src="Img/s5.png">
