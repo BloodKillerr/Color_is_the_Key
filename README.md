@@ -1,8 +1,12 @@
 <p align="center"> 
-  <img src="Img/Banner.png">
+  
 </p>
 <h1 align="center"> Color is the Key </h1>
 <h3 align="center"> Project for: <a href="https://itch.io/jam/mini-jam-111-colors">Mini Jam 111-Colors</a></h3>
+
+<p align="center"> 
+  <img width=250px height =250px src="Img/Icon.png">
+</p>
 
 <h2>About The Project</h2>
 
