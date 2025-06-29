@@ -1,5 +1,5 @@
 <p align="center"> 
-  
+  <img width=80% height=80% src="Img/NewBanner.png">
 </p>
 <h1 align="center"> Color is the Key </h1>
 <h3 align="center"> Project for: <a href="https://itch.io/jam/mini-jam-111-colors">Mini Jam 111-Colors</a></h3>
@@ -44,8 +44,18 @@
 - ESC - Quit application
 
 <h2>Gameplay Screenshots</h2>
-<img src="Img/s1.png">
-<img src="Img/s2.png">
-<img src="Img/s3.png">
-<img src="Img/s4.png">
-<img src="Img/s5.png">
+<p align="center">
+  <img width=70% height=70% src="Img/s1.png">
+</p>
+<p align="center">
+  <img width=70% height=70% src="Img/s2.png">
+</p>
+<p align="center">
+  <img width=70% height=70% src="Img/s3.png">
+</p>
+<p align="center">
+  <img width=70% height=70% src="Img/s4.png">
+</p>
+<p align="center">
+  <img width=70% height=70% src="Img/s5.png">
+</p>
